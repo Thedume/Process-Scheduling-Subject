@@ -4,6 +4,8 @@
 #include <stdlib.h>
 using namespace std;
 
+// 2024-05-21-01:19 Commit
+
 // 프로세스의 정보를 담은 구조체
 typedef struct process {
 	int number = 0; // 프로세스 번호
